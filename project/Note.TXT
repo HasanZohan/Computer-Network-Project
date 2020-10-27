@@ -1,0 +1,10 @@
+First,
+	Go to Patients room.Then click fire with mouse left click+alt button & take the fire to IoT0(Fire monitor).Then the fire sprinkler will get signal and sprinkel water to reduce the fire.
+
+Second,
+	Take the curser or anything to motion sensor with mouse left click+alt button.Then the moton sensor will on and the webcam will also detect the signal from motion sensor and the webcame will start recording to see who is entering in the room and what is happening.
+
+Third,
+	Go to Monitor room.Click on server you can see how the server is connected & sending data.(ai part ta valo kore kora hoi nai.Apni aktu nijer moto aro kisu likhe diyen)
+
+Note: Baki kew poricito thakle tar report ta check korte paren je tara screenshot dise naki room and connection gular.Jodi dei then patient room er ss dite paren.
